@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Risc-V, UVM methodology and scripting
 - 📫 How to reach me: marcelo.carvalho@lowrisc.org / mcfa85@gmail.com
 - 😄 Pronouns: Marcelo Almeida
-- ⚡ Fun fact: When I'm not debugging code, I'm probably debugging life. Between SystemVerilog simulations and real-world applications, I've got error handling covered! 😄
+
 
 <!---
 marcelocarvalhoLowRisc/marcelocarvalhoLowRisc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
